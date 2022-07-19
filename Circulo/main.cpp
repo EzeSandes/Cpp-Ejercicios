@@ -5,9 +5,12 @@ using namespace std;
 
 int main()
 {
+    /*
+    Si quiere puede hacer como ejercicio adicional el operator ">>"
+    
     cout << "Ingrese el radio del circulo:" << endl;
     cin >> r;
-
+    */
     Circulo  circ1(1);
     //Circulo  circ2();
     Circulo circ2;
