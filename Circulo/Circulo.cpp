@@ -7,7 +7,12 @@ Circulo::Circulo(float radio)
 {}
 
 ///////////////////////////////////////
-
+/*
+IMPORTANTE: Al no utilizar la clase memoria dinamica, no es necesaria el constructor por copia, ni el operator "=" ya que vienen
+            por defecto creados con objetos de clase estatica. Aun asi, puede crearlos para asegurarse manualmente la asignacion
+            de los campos correctamente, junto con una validacion si lo requiere.
+*/
+///////////////////////////////////////
 Circulo& Circulo :: operator = (float num)
 {
     this->radio = num;
