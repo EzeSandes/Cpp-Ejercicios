@@ -12,6 +12,6 @@ Solucion en "Circulo.cpp" y "Circulo.h"
 ## Aclaracion
 Temas incluidos aca:
 
-- Constructores por defecto
+- Constructores por defecto y por copia
 - Operators ( = , -- , << )
 - Metodos de la clase.
