@@ -11,7 +11,7 @@ __Atributos privados__<br>
 - int     minutos;
 - int     segundos;
 <br>
-Solucion en "Circulo.cpp" y "Circulo.h"
+Solucion en "Hora.cpp" y "Hora.h"
 
 ## Temas incluidos:
 
