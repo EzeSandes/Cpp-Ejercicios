@@ -7,6 +7,9 @@ código al pie restar a un flotante la “Medicion”. En este caso no es import
 ya que existe una sola. Use efectivamente el tiempo y no desarrolle nada que no aplique al código
 mostrado.
 
+__Nota__: Un item mas que se le puede agregar es crear una Exception personalizada para capturar en el "catch" si hay un error por parte de un objeto "Medicion" llamada
+"MedicionExc"
+
 ```Cpp
 Medicion m1mv(100.0, "Mv");
 Medicion m2mv(20.0, "Mv");
